@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anophelesgambiae
-- 👀 I’m interested in birds such as the western jackdaw and great tit. Also on modelling mosquito populations. I find it nice to use math in biology. I draw also. 
+- 👀 I’m interested in birds such as the western jackdaw and great tit. I find mathematical biology very interesting, such as models to predict and understand biological processes. I draw also. 
 - I am at the moment busy with a board game where I draw the cards and board.   
-- 🌱 I’m currently learning on high school.
+- 🌱 I’m currently learning applied mathematics (applied area is biology) at university of Utrecht in the Netherlands.
 - 📫 How to reach me: robdhaas@xs4all.nl
 
 <!---
